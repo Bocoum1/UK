@@ -248,3 +248,7 @@ function(input, output, session) {
       ggplotly()
   })
 }  
+
+
+#Le fin, le projet est assez grand et ne se limite pas à ce repos
+#Je  vous invite à consulter notre collaboration à kknfjn et mclk

@@ -1,0 +1,1 @@
+#Initialisation à l'archi de l'ordinateur
